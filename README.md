@@ -17,19 +17,19 @@ Now you will see in the content builder you will already have the User set up, s
 
 First, let's start with the Order, as it is the easiet:
 You will click on create new type and then type in Order with the following attributes:
-### NAME	              TYPE
+    NAME	        TYPE
     products            JSON
     userName            Text
- 	  stripeSessionId     Text 
+    stripeSessionId     Text 
 
 Then will want to create a new type called Item with the following attributes:
-### NAME	              TYPE
+    NAME	        TYPE
     name                Text 
-	  shortDescription    Rich text
- 	  longDescription     Rich text
- 	  price               Number
- 	  image               Media 
-	  category            Enumeration 
+    shortDescription    Rich text
+    longDescription     Rich text
+    price               Number
+    image               Media 
+    category            Enumeration 
     
 Now once you have done that you can click on Content Manager, select Item and then add entry, this is where you will enter the images you wish to use to display your products.
 
