@@ -17,13 +17,13 @@ Now you will see in the content builder you will already have the User set up, s
 
 First, let's start with the Order, as it is the easiet:
 You will click on create new type and then type in Order with the following attributes:
-  ##  NAME	            TYPE
+  ##  NAME	     /       TYPE
     products            JSON
     userName            Text
     stripeSessionId     Text 
 
 Then will want to create a new type called Item with the following attributes:
-  ##  NAME	            TYPE
+  ##  NAME	     /       TYPE
     name                Text 
     shortDescription    Rich text
     longDescription     Rich text
